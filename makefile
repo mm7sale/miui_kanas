@@ -1,5 +1,5 @@
 #
-# Makefile for taoshan
+# Makefile for kanas
 #
 
 # The original zip file, MUST be specified by each product
